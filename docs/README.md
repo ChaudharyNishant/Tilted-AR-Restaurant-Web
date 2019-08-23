@@ -14,7 +14,7 @@ When the customer visits the restaurant, the restaurant will provide them with t
   <li>3D models from Poly by Google</li>
 </ul>
 <h3>Links</h3>
-Download Tilted AR Restaurant for Android now <a href="https://play.google.com/store/apps/details?id=com.nishantchaudhary.tiltedar" target="_blank">here</a>.
+<a href="https://play.google.com/store/apps/details?id=com.nishantchaudhary.tiltedar" target="_blank">Download Tilted AR Restaurant</a> for Android now.
 <br>Drop a mail to contact the creator of the application or to give any suggestions by clicking <a href="mailto:playstorenishant@gmail.com?Subject=Regarding%20Tilted%20AR%20Restaurant%20from%20Portfolio%20Webiste" target="_top">here</a> or at <a href="mailto:playstorenishant@gmail.com?Subject=Regarding%20Tilted%20AR%20Restaurant%20from%20Portfolio%20Website" target="_top">playstorenishant@gmail.com</a>
 <br><br><h2>Disclaimer</h2>
 <ul>
