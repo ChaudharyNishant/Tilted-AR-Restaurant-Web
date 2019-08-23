@@ -32,7 +32,6 @@ When the customer visits the restaurant, the restaurant will provide them with t
 <a href="https://github.com/ChaudharyNishant/TiltedARRestaurant-Issues/raw/master/Menu.jpg" target="_blank">this Menu</a>.</li>
 </ol>
 
-<br><br><h6><i>Thanks in advance for any kind of contribution. All the code in this repository is free and open to copy and/or change UNTIL AND UNLESS proper credits are given. The first 2 lines of the major files are restricted to be changed in respect for credits and should remain intact if the file is used. If any part of any file is used then credits should be properly given in the respective file which should include the following information:
-<br>Created by Nishant Chaudhary
+<br><br><h6><i>Created by Nishant Chaudhary
 <br>https://github.com/ChaudharyNishant</i></h6>
 </body>
