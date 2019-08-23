@@ -13,7 +13,7 @@ When the customer visits the restaurant, the restaurant will provide them with t
   <li>Vuforia</li>
   <li>3D models from Poly by Google</li>
 </ul>
-<h3>Links</h3>
+<br><h3>Links</h3>
 <ul>
 <li><a href="https://play.google.com/store/apps/details?id=com.nishantchaudhary.tiltedar" target="_blank">Download Tilted AR Restaurant</a> for Android now.</li>
 <li>Drop a mail to contact the creator of the application or to give any suggestions by clicking <a href="mailto:playstorenishant@gmail.com?Subject=Regarding%20Tilted%20AR%20Restaurant%20from%20Portfolio%20Webiste" target="_top">here</a> or at <a href="mailto:playstorenishant@gmail.com?Subject=Regarding%20Tilted%20AR%20Restaurant%20from%20Portfolio%20Website" target="_top">playstorenishant@gmail.com</a></li>
