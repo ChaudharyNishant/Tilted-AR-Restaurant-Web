@@ -14,10 +14,12 @@ When the customer visits the restaurant, the restaurant will provide them with t
   <li>3D models from Poly by Google</li>
 </ul>
 <h3>Links</h3>
-<a href="https://play.google.com/store/apps/details?id=com.nishantchaudhary.tiltedar" target="_blank">Download Tilted AR Restaurant</a> for Android now.
-<br>Drop a mail to contact the creator of the application or to give any suggestions by clicking <a href="mailto:playstorenishant@gmail.com?Subject=Regarding%20Tilted%20AR%20Restaurant%20from%20Portfolio%20Webiste" target="_top">here</a> or at <a href="mailto:playstorenishant@gmail.com?Subject=Regarding%20Tilted%20AR%20Restaurant%20from%20Portfolio%20Website" target="_top">playstorenishant@gmail.com</a>
-<br><br><h2>Disclaimer</h2>
 <ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.nishantchaudhary.tiltedar" target="_blank">Download Tilted AR Restaurant</a> for Android now.</li>
+<li>Drop a mail to contact the creator of the application or to give any suggestions by clicking <a href="mailto:playstorenishant@gmail.com?Subject=Regarding%20Tilted%20AR%20Restaurant%20from%20Portfolio%20Webiste" target="_top">here</a> or at <a href="mailto:playstorenishant@gmail.com?Subject=Regarding%20Tilted%20AR%20Restaurant%20from%20Portfolio%20Website" target="_top">playstorenishant@gmail.com</a></li>
+</ul>
+<br><br><h2>Disclaimer</h2>
+<ol>
 <li>There is NO REAL ORDER in Tilted AR Restaurant at the moment.</li>
 <li>There will be no food delivered at any address.</li>
 <li>No payments are made through Tilted AR Restaurant and hence no cashback or refund.</li>
@@ -25,10 +27,10 @@ When the customer visits the restaurant, the restaurant will provide them with t
 <li>The offers in Tilted AR Restaurant are imaginary and none of the 3rd party applications is involved in any way.</li>
 <li>However, these features may be available in the near future, if I get proper support.</li>
 <li>There may be some jokes in Tilted AR Restaurant. Please don't overreact or create problems for me.</li>
-<li>Please read the Privacy Policy for further details about the content provided and collected through Tilted AR Restaurant.</li>
+<li>Please read the <a href="https://chaudharynishant.github.io/TiltedARRestaurantPrivacyPolicy" target="_blank">Privacy Policy</a> for further details about the content provided and collected through Tilted AR Restaurant.</li>
 <li>The AR Showcase feature in Tilted AR Restaurant requires a Menu which can be downloaded from the following URL:
-https://github.com/ChaudharyNishant/TiltedARRestaurant-Issues/raw/master/Menu.jpg</li>
-</ul>
+<a href="https://github.com/ChaudharyNishant/TiltedARRestaurant-Issues/raw/master/Menu.jpg" target="_blank">https://github.com/ChaudharyNishant/TiltedARRestaurant-Issues/raw/master/Menu.jpg</a></li>
+</ol>
 
 <br><br><h6><i>Thanks in advance for any kind of contribution. All the code in this repository is free and open to copy and/or change UNTIL AND UNLESS proper credits are given. The first 2 lines of the major files are restricted to be changed in respect for credits and should remain intact if the file is used. If any part of any file is used then credits should be properly given in the respective file which should include the following information:
 <br>Created by Nishant Chaudhary
