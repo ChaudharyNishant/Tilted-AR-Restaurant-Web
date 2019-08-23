@@ -28,7 +28,7 @@ When the customer visits the restaurant, the restaurant will provide them with t
 <li>However, these features may be available in the near future, if I get proper support.</li>
 <li>There may be some jokes in Tilted AR Restaurant. Please don't overreact or create problems for me.</li>
 <li>Please read the <a href="https://chaudharynishant.github.io/TiltedARRestaurantPrivacyPolicy" target="_blank">Privacy Policy</a> for further details about the content provided and collected through Tilted AR Restaurant.</li>
-<li>The AR Showcase feature in Tilted AR Restaurant requires a 
+<li>The AR Showcase feature in Tilted AR Restaurant requires 
 <a href="https://github.com/ChaudharyNishant/TiltedARRestaurant-Issues/raw/master/Menu.jpg" target="_blank">this Menu</a>.</li>
 </ol>
 
