@@ -27,9 +27,9 @@ When the customer visits the restaurant, the restaurant will provide them with t
 <li>The offers in Tilted AR Restaurant are imaginary and none of the 3rd party applications is involved in any way.</li>
 <li>However, these features may be available in the near future, if I get proper support.</li>
 <li>There may be some jokes in Tilted AR Restaurant. Please don't overreact or create problems for me.</li>
-<li>Please read the <a href="https://chaudharynishant.github.io/TiltedARRestaurantPrivacyPolicy" target="_blank">Privacy Policy</a> for further details about the content provided and collected through Tilted AR Restaurant.</li>
+<li>Please read the <a href="https://chaudharynishant.github.io/TiltedARRestaurantPrivacyPolicy">Privacy Policy</a> for further details about the content provided and collected through Tilted AR Restaurant.</li>
 <li>The AR Showcase feature in Tilted AR Restaurant requires 
-<a href="Menu.jpg" target="_blank">this Menu</a>.</li>
+<a href="Menu.jpg">this Menu</a>.</li>
 </ol>
 
 <br><br><h6><i>Created by Nishant Chaudhary
