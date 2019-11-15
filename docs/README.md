@@ -1,4 +1,5 @@
 <body align="justify">
+<h6><i>Tutorial Video will be uploaded soon.</i></h6><br><br>
 <h2>The Current Situation</h2>
 Sometimes, we go to a restaurant and wish we could see the item in front of our eyes, on our table before ordering, to help us in deciding what quantity of the item to order so that neither the food is wasted nor we stay hungry even after eating. Also, it is human tendency to classify food after seeing it. What looks good, must taste good, is what we think. This is a common problem and we solely rely on the waiter's estimates.
 <br><br><h2>The Solution</h2>
